@@ -20,3 +20,30 @@ hyprpaper &
 ##
 
 /usr/libexec/xfce-polkit &
+
+
+
+
+##
+## ## wf-shell
+##
+
+wf-panel &
+
+
+
+
+##
+## ## nm-applet
+##
+
+nm-applet &
+
+
+
+
+##
+## ## fcitx5
+##
+
+fcitx5 &
