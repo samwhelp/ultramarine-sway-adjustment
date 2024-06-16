@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+
+
+
+##
+## ## Desktop Background Image
+##
+
+hyprpaper &
+#~/.azotebg &
+#wf-background &
+#pcmanfm-qt --desktop --daemon-mode &
+
+
+
+
+##
+## ## Polkit
+##
+
+/usr/libexec/xfce-polkit &
